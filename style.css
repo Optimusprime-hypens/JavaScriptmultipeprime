@@ -39,7 +39,7 @@ nav {
 /* default navigation */
 nav a {
   background-color: #A151B7;
-  color: white;
+  color: gray;
   text-decoration: none;
   padding: 10px 20px;
   border-radius: 5px;
